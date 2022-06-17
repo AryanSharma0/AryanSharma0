@@ -1,8 +1,8 @@
  <img src="https://www.proitmelbourne.com.au/blog/wp-content/uploads/et_temp/Web-Design-Banner-1-1-254137_1080x675.jpg">
 
 
-<h1> align="center">Hi 👋, I'm Aryan Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center ">Hi 👋, I'm Aryan Sharma</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansharma0&label=Profile%20views&color=0e75b6&style=flat" alt="aryansharma0" /> </p>
 
