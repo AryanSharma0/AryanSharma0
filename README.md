@@ -1,23 +1,11 @@
-<style>
-    .bg-image{
-        height: 30rem;
-        width: 100%;
-    }
-</style>
-<body>
-  <div class="center ">
-    <img class="bg-image" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=2000">
-
-
-    <h1 align="center ">Hi 👋, I'm Aryan Sharma</h1>
+<div class="center ">
+<img class="bg-image" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=2000">
+ <h1 align="center ">Hi 👋, I'm Aryan Sharma</h1>
     <h3 align="center ">A passionate frontend developer</h3>
-     
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansharma0&label=Profile%20views&color=0e75b6&style=flat" alt="aryansharma0" /> </p>
+     <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansharma0&label=Profile%20views&color=0e75b6&style=flat" alt="aryansharma0" /> </p>
     
     - 🌱 I’m currently learning **React Native**
-    
-    - 📫 How to reach me **sharmmaaryan@gmail.com**
-    
+- 📫 How to reach me **sharmmaaryan@gmail.com**
     <h3 align="left">Connect with me:  sharmmaaryan@gmail.com</h3>
     <p align="left">
     </p>
