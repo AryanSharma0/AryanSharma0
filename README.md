@@ -1,4 +1,4 @@
- <img src="https://thumbs.dreamstime.com/z/i-web-developer-hologram-futuristic-interface-concept-augmented-virtua-high-quality-99390943.jpg">
+ <img src="https://www.proitmelbourne.com.au/blog/wp-content/uploads/et_temp/Web-Design-Banner-1-1-254137_1080x675.jpg">
 
 
 <h1> align="center">Hi 👋, I'm Aryan Sharma</h1>
