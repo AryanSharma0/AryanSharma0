@@ -1,5 +1,4 @@
 <div class="center ">
-<img class="bg-image" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=2000">
  <h1 align="center ">Hi 👋, I'm Aryan Sharma</h1>
     <h3 align="center ">A passionate frontend developer</h3>
      <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansharma0&label=Profile%20views&color=0e75b6&style=flat" alt="aryansharma0" /> </p>
