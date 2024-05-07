@@ -1,6 +1,6 @@
 <div class="center ">
  <h1 align="center ">Hi 👋, I'm Aryan</h1>
-    <h3 align="center ">A passionate frontend developer</h3>
+    <h3 align="center ">A passionate developer</h3>
      <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansharma0&label=Profile%20views&color=0e75b6&style=flat" alt="aryansharma0" /> </p>
     
     - 🌱 I’m currently working on **Full Stack Development**
