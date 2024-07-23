@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
 <h3 align="center"> Fullstack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansharma0&label=Profile%20views&color=0e75b6&style=flat" alt="aryansharma0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansharma0&label=Profile%20views&color=0e75b6&style=flat" alt="aryansharma" /> </p>
 
 - 🌱 I’m currently working on **React Native**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sharmmaaryan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SKGychcUAW3CveXHgmEikvkMYLf8eaX1/view?usp=sharing](https://drive.google.com/file/d/1SKGychcUAW3CveXHgmEikvkMYLf8eaX1/view?usp=sharing)
+- 📄 Resume:  [https://drive.google.com/file/d/1SKGychcUAW3CveXHgmEikvkMYLf8eaX1/view?usp=sharing](https://drive.google.com/file/d/1SKGychcUAW3CveXHgmEikvkMYLf8eaX1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
