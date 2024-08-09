@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
+<h1 align="center">Hello 👋, I'm Aryan Sharma</h1>
 <h3 align="center"> Fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansharma0&label=Profile%20views&color=0e75b6&style=flat" alt="aryansharma" /> </p>
-
-- 🌱 I’m currently working on **React Native**
 
 - 💬 Ask me about **React JS, Node JS, React Native, Flutter**
 
