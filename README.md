@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **sharmmaaryan@gmail.com**
 
-- 📄 Resume:  [https://drive.google.com/file/d/1SKGychcUAW3CveXHgmEikvkMYLf8eaX1/view?usp=sharing](https://drive.google.com/file/d/1sb-7hi0QmnJBJZNAs-cza1ZSrEPZim0v/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a target="_blank" href="https://linkedin.com/in/aryansharma0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryansharma0" height="30" width="40" /></a>
